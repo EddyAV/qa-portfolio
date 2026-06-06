@@ -6,6 +6,7 @@ Steps:
 1. Open Aliexpress App
 2. Tap "Enable all notifications"
 3. Accept OS permission
+
 Expected Result:
 - Permission popup appears
 - User allows notifications
@@ -20,6 +21,7 @@ Steps:
 1. Open Aliexpress App
 2. Tap "Get order updates"
 3. Accept OS permission (if prompted)
+
 Expected Result:
 - Permission popup appears (if needed)
 - Only order updates notifications enabled
@@ -33,9 +35,11 @@ Title: No Thanks
 Steps:
 1. Open Aliexpress App
 2. Tap "No thanks"
+
 Expected Result:
 - No permission popup
 - Notifications remain disabled
 - User navigates to next screen
 - Preference saved (opt-out)
+
 
