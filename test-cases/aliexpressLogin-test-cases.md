@@ -2,6 +2,7 @@
 --------------------------------------------------
 ### TC_ID: TC_AE_HP_01
 Title: Enable All Notifications
+
 Steps:
 1. Open Aliexpress App
 2. Tap "Enable all notifications"
@@ -14,39 +15,44 @@ Expected Result:
 - User navigates to next screen
 
 --------------------------------------------------
-###TC_ID: TC_AE_HP_02
+### TC_ID: TC_AE_HP_02
 Title: Continue with Default Location
+
 Preconditions:
 - Aliexpress app open
 - All notifications enabled
+
 Steps:
 1. Open welcome screen
 2. Verify location is shown (e.g., Mexico)
 3. Tap "Continue"
+
 Expected Result:
 - Screen "Welcome to Aliexpress" is shown
 - Screen shows flag and country name in "Your location"
 - User proceeds to next screen
 
 --------------------------------------------------
-###TC_ID: TC_AE_HP_03
+### TC_ID: TC_AE_HP_03
 Title: AliExpress Credentials
+
 Preconditions:
 - Aliexpress app open
 - All notifications enabled
 - Location selected 
+
 Steps:
 1. Tab on "Email or phone number" textbox and type valid email/phono number
 2. Tap on button "Continue" 
 3. Tab on "Password" textbox and type valid password
 4. Tap "Sign In"
+
 Expected Result:
 - Textbox "Email or phone number" shows the users input
 - "Continue" button is disabled until users input credential
 - Textbox "Password" hides users input
 - "Sign In" button is disabled until users input credential
 - User proceeds to next screen
---------------------------------------------------
 
 
 --------------------------------------------------
