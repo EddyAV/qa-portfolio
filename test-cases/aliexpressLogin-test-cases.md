@@ -58,22 +58,22 @@ Expected Result:
 --------------------------------------------------
 # Alternative Scenarios 
 --------------------------------------------------
-### TC_ID: TC_NOTIF_BTN_02
+### TC_ID: TC_NOTIF_BTN_01
 Title: Get Order Updates
 Steps:
 1. Open Aliexpress App
 2. Tap "Get order updates"
-3. Accept OS permission (if prompted)
+3. Accept OS permission.
 
 Expected Result:
-- Permission popup appears (if needed)
+- Permission popup appears.
 - Only order updates notifications enabled
 - User navigates to next screen
 - Preference saved
 
 --------------------------------------------------
 
-### TC_ID: TC_NOTIF_BTN_03
+### TC_ID: TC_NOTIF_BTN_02
 Title: No Thanks
 Steps:
 1. Open Aliexpress App
@@ -83,6 +83,33 @@ Expected Result:
 - No permission popup
 - Notifications remain disabled
 - User navigates to next screen
-- Preference saved (opt-out)
+- Preference saved
+
+--------------------------------------------------
+
+### TC_ID: TC_Location_01
+Title: Your Location Button
+
+Preconditions:
+- Aliexpress app open
+- All notifications enabled
+- User is in the "Welcome to Aliexpress" screen
+
+Steps:
+1. Tap on "Your Location" button 
+2. Tap on the top left "X" close button
+3. Scroll down in the list of available countries
+4. Tap on a random country
+5. Tap on button "Continue"
+
+Expected Result:
+- "Select country/region" screen with list of flag(image) and country name is shown
+- Screen "Welcome to Aliexpress" is shown
+- List of available countries is shown
+- "Welcome to Aliexpress" screen is shown with the selected country 
+- User navigates to next screen
+- Preference saved
+ 
+  
 
 
