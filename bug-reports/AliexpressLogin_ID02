@@ -1,0 +1,21 @@
+# Title: AliexpressLogin_ID02
+### Operative system: Android
+### OS version: 16
+### Device: Motorola
+### App Version: 8.163.1
+### Enviroment Details: PROD
+### Severity: Low
+## Visual bugs are found in the "Country/region" screen.
+### Bug 1 
+### Description: In the screen "Country/region" in the list of regions "Caribbean Netherlands" is not showing its flag.
+- 1- Open Aliexpress app
+- 2- Enable notifications 
+- 3- Tap on "Your Location" button
+- 4- Scroll down until the "Caribbean Netherlands" region
+### Evidence:
+
+
+### Expected Result: The app is expected to show the flag of the region
+
+### Resources:
+Figma/Canva/Design
