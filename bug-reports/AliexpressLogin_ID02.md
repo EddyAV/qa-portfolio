@@ -3,7 +3,7 @@
 ### OS version: 16
 ### Device: Motorola
 ### App Version: 8.163.1
-### Enviroment Details: PROD
+### Enviroment Details: Production
 ### Severity: Low
 ## Visual bugs are found in the "Country/region" screen.
 ### Bug 1 
@@ -27,6 +27,7 @@ Figma/Canva/Design
 - 3- Tap on "Your Location" button
 - 4- Scroll down until the "Taiwan, China" region
 ### Evidence:
+<img width="270" height="600" alt="AliExpressMX-ID02B-8 163 1" src="https://github.com/user-attachments/assets/231fad70-614e-4007-a2ca-e3b10a605902" />
 
 ### Expected Result: The app is expected to show the flag of the region
 
