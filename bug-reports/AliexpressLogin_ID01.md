@@ -15,7 +15,7 @@
 ### Evidence:
 https://github.com/user-attachments/assets/395ab6d5-a629-4cb4-bb3e-3493b0b926ef
 
-### Expected Result: The app is expected to show the screen "Welcome to Aliexpress" with the selected flag and country name.
+### Expected Result: The app is expected to show the screen "Welcome to Aliexpress" with the selected flag and country name with the first tap.
 .jpg
 
 ### Resources:
